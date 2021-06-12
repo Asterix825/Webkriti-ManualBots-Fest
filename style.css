@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  background-color: green;
+  width: 200vh;
+  height: 10vh;
+}
+.main {
+  background-color: grey;
+  width: 200vh;
+  height: 90vh;
+}
